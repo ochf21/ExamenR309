@@ -103,7 +103,7 @@ class ServerInterface(QMainWindow):
     # Le client doit envoyer un message deco-server pour qu'il s'arrete.
 
     #Lien Github
-    #
+    #https://github.com/ochf21/ExamenR309
 
 if __name__ == '__main__':
     app = QApplication(sys.argv)
